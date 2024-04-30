@@ -1,4 +1,4 @@
-# Counter App
+# Card App
 
 A new Flutter project.
 
